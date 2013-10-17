@@ -8,12 +8,12 @@ Stable tag: 1.0.35
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Set Posts and Pages to automatically be protect after a special period of time.
+Set Posts and Pages to automatically be protect after a special period of time (require Wishlist Member).
 
 == Description ==
 Wishlist AutoProtect is a Wishlist Member plugin that will give you the ability to protect your content in an automated way.<br>
 
-Wishlist AutoProtect plugin works Wishlist member plugin an automation to the protection process.<br>
+<a href="http://wishlistautoprotect.com">Wishlist AutoProtect</a> plugin works Wishlist member plugin an automation to the protection process.<br>
 
 Features:
 
@@ -24,7 +24,7 @@ Support multiple level selections<br>
 Full integration with Wishlist Members Levels<br>
 Ability to create disappearing content within just 2 clicks<br>
 
-Wishlist Member Plugins is needed to use Wishlist AutoProtect<br>
+<strong>Wishlist Member Plugins is needed to use Wishlist AutoProtect</strong><br>
 
 == Installation ==
 1. Upload the plugin to "wp-content/plugins/" directory.
