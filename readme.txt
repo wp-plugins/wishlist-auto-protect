@@ -26,7 +26,7 @@ Ability to create disappearing content within just 2 clicks<br>
 
 <strong>Wishlist Member Plugins is needed to use Wishlist AutoProtect</strong><br>
 
-This Plugins is maintained by <a href="http://happyplugins.com">HappyPlugins</a>your can find more plugins and coding tutorials our our websites.<br/>
+This Plugins is maintained by <a href="http://happyplugins.com">HappyPlugins</a> your can find more plugins and coding tutorials our our websites.<br>
 
 == Installation ==
 1. Upload the plugin to "wp-content/plugins/" directory.
