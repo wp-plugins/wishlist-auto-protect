@@ -36,7 +36,7 @@ Currently HappyPlugins company the number one 3rd party plugins developer for th
 
 Some of the plugins that we developed for Wishlist Member are: 
 <ul>
-<li><a href="http://wishlistregistrationwidget">Wishlist Registration Widget</a></li>
+<li><a href="http://wishlistregistrationwidget.com">Wishlist Registration Widget</a></li>
 <li><a href="http://wishlistautoregistration.com">Wishlist AutoRegistration</a></li>
 <li><a href="http://happyplugins.com/downloads/wishlist-protection-display/">Wishlist Protection Display</a></li>
 <li><a href="http://happyplugins.com/downloads/wishlist-protected-content-widget/">Wishlist Protected Content Widget</a></li>
