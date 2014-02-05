@@ -45,8 +45,7 @@ Some of the plugins that we developed for Wishlist Member are:
 
 <h4>Further Reading</h4>
 <ul>
-<li>The <a href="http://happyplugins.com/downloads/wp-simple-faq-lite/">WP Simple FAQ Lite</a> official homepage.</li>
-<li>More <a href="http://happyplugins.com">WordPress Plugins</a> by HappyPlugins</li>
+<li>More <a href="http://happyplugins.com/?download_category=wishlist-member">Plugins for Wishlist Member</a> by HappyPlugins</li>
 <li>Build a Membership site that Convert with <a href="http://membershipinsiders.com">Membership Isiders</a>.</li>
 <li>Follow HappyPlugins on <a href="https://www.facebook.com/happyplugins">Facebook</a> & <a href="https://twitter.com/HappyPlugins">Twitter</a></li>
 </ul>
