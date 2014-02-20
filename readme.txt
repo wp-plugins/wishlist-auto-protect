@@ -1,6 +1,6 @@
-=== Wishlist AutoProtect ===
+=== Wishlist Member AutoProtect ===
 Contributors: happyplugins
-Tags: wishlist member, auto protection, membership
+Tags: wishlist member, automatic protection, membership
 Donate link: http://happyplugins.com
 Requires at least: 3.0.1
 Tested up to: 3.6
@@ -8,9 +8,11 @@ Stable tag: 1.0.35
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Set Posts and Pages to automatically be protect after a special period of time (require Wishlist Member).
+This plugin adds option to automatically protect any post or page in WishList Member after a special period of time or on a specific date.
 
 == Description ==
+<a href="happyplugins.com">HappyPlugins</a> present <a href="http://wlmp.info/wlm">Wishlist Member</a> Auto Protect plugin.
+
 Wishlist AutoProtect is a Wishlist Member plugin that will give you the ability to protect your content in an automated way.<br>
 
 <a href="http://wishlistautoprotect.com">Wishlist AutoProtect</a> plugin works Wishlist member plugin an automation to the protection process.<br>
