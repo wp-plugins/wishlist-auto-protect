@@ -28,7 +28,7 @@ Support multiple level selections<br>
 Full integration with Wishlist Members Levels<br>
 Ability to create disappearing content within just 2 clicks<br>
 
-<strong>a href="http://wlmp.info/wlm">Wishlist Member</a> is required to use Wishlist AutoProtect</strong><br>
+<strong><a href="http://wlmp.info/wlm">Wishlist Member</a> is required to use Wishlist AutoProtect</strong><br>
 
 == Installation ==
 1. Upload the plugin to "wp-content/plugins/" directory.
