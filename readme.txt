@@ -26,6 +26,8 @@ Support multiple level selections<br>
 Full integration with Wishlist Members Levels<br>
 Ability to create disappearing content within just 2 clicks<br>
 
+http://www.youtube.com/watch?v=nHW4qbVP5og
+
 <strong>Wishlist Member Plugins is needed to use Wishlist AutoProtect</strong><br>
 
 == Installation ==
