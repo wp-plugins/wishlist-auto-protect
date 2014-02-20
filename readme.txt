@@ -15,6 +15,8 @@ This plugin adds option to automatically protect any post or page in WishList Me
 
 Wishlist AutoProtect is a Wishlist Member plugin that will give you the ability to protect your content in an automated way.<br>
 
+http://www.youtube.com/watch?v=nHW4qbVP5og
+
 <a href="http://wishlistautoprotect.com">Wishlist AutoProtect</a> plugin works Wishlist member plugin an automation to the protection process.<br>
 
 Features:
@@ -25,8 +27,6 @@ Move your content between protection levels automatically<br>
 Support multiple level selections<br>
 Full integration with Wishlist Members Levels<br>
 Ability to create disappearing content within just 2 clicks<br>
-
-http://www.youtube.com/watch?v=nHW4qbVP5og
 
 <strong>Wishlist Member Plugins is needed to use Wishlist AutoProtect</strong><br>
 
