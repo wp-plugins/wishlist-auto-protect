@@ -1,16 +1,18 @@
-=== Wishlist AutoProtect ===
+=== Wishlist Member AutoProtect ===
 Contributors: happyplugins
-Tags: wishlist member, auto protection, membership, content
+Tags: wishlist member, automatic protection, membership
 Donate link: http://happyplugins.com
 Requires at least: 3.0.1
-Tested up to: 3.7.1
+Tested up to: 3.6
 Stable tag: 1.0.35
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Set Posts and Pages to automatically be protect after a special period of time (require Wishlist Member).
+This plugin adds option to automatically protect any post or page in WishList Member after a special period of time or on a specific date.
 
 == Description ==
+<a href="happyplugins.com">HappyPlugins</a> present <a href="http://wlmp.info/wlm">Wishlist Member</a> Auto Protect plugin.
+
 Wishlist AutoProtect is a Wishlist Member plugin that will give you the ability to protect your content in an automated way.<br>
 
 <a href="http://wishlistautoprotect.com">Wishlist AutoProtect</a> plugin works Wishlist member plugin an automation to the protection process.<br>
@@ -25,30 +27,6 @@ Full integration with Wishlist Members Levels<br>
 Ability to create disappearing content within just 2 clicks<br>
 
 <strong>Wishlist Member Plugins is needed to use Wishlist AutoProtect</strong><br>
-
-<h4>HappyPlugins - eCommerce Plugins for WordPress</h4>
-
-<a href="http://happyplugins.com">HappyPlugins</a> company develop premium WordPress & Guides for eCommerce websites.<br>
-
-Our Plugins includes <a href="http://happyplugins.com/?download_category=wishlist-member" alt="Wishlist Member Dedicated Plugins" title="Wishlist Member Dedicated Plugins">Wishlist Member Dedicated Plugins</a>, <a href="http://happyplugins.com/downloads/category/easy-digital-downloads/" alt="Easy Digital Downloads Dedicated Plugins" title="Easy Digital Downloads Dedicated Plugins">Easy Digital Downloads Dedicated Plugins</a><br>
-
-Currently HappyPlugins company the number one 3rd party plugins developer for the Wishlist Member Membership Platform.
-
-Some of the plugins that we developed for Wishlist Member are: 
-<ul>
-<li><a href="http://wishlistregistrationwidget.com">Wishlist Registration Widget</a></li>
-<li><a href="http://wishlistautoregistration.com">Wishlist AutoRegistration</a></li>
-<li><a href="http://happyplugins.com/downloads/wishlist-protection-display/">Wishlist Protection Display</a></li>
-<li><a href="http://happyplugins.com/downloads/wishlist-protected-content-widget/">Wishlist Protected Content Widget</a></li>
-<li><a href="http://happyplugins.com/downloads/wishlist-pay-per-post-shortcodes/">Wishlist PayPetPost Shortcodes (including sidebar widget)</a></li>
-</ul>
-
-<h4>Further Reading</h4>
-<ul>
-<li>More <a href="http://happyplugins.com/?download_category=wishlist-member">Plugins for Wishlist Member</a> by HappyPlugins</li>
-<li>Build a Membership site that Convert with <a href="http://membershipinsiders.com">Membership Isiders</a>.</li>
-<li>Follow HappyPlugins on <a href="https://www.facebook.com/happyplugins">Facebook</a> & <a href="https://twitter.com/HappyPlugins">Twitter</a></li>
-</ul>
 
 == Installation ==
 1. Upload the plugin to "wp-content/plugins/" directory.
