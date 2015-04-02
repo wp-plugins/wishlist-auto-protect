@@ -3,7 +3,7 @@
  Plugin Name: Wishlist AutoProtect
  Plugin URI: http://wislistautoprotect.com
  Description: Set Posts and Pages to automatically be protect after a special period of time.
- Version: 1.0.35
+ Version: 1.1.0
  Author: Wishlist Member Extensions 
  Author URI: http://wishlistmemberextensions.com/
  License: GPL2

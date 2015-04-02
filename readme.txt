@@ -3,8 +3,8 @@ Contributors: happyplugins
 Tags: wishlist member, automatic protection, membership
 Donate link: http://happyplugins.com
 Requires at least: 3.0.1
-Tested up to: 3.6
-Stable tag: 1.0.35
+Tested up to: 4.1.1.
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,6 +29,9 @@ Full integration with Wishlist Members Levels<br>
 Ability to create disappearing content within just 2 clicks<br>
 
 <strong><a href="http://wlmp.info/wlm">Wishlist Member</a> is required to use Wishlist AutoProtect</strong><br>
+
+<a href="http://discoverwp.co">DiscoverWP - Find & Compare WordPress Plugins</a>
+DiscoverWP was created in thing in mind and that to help every WordPress user to find the right product for his needs.
 
 == Installation ==
 1. Upload the plugin to "wp-content/plugins/" directory.
@@ -56,6 +59,11 @@ You can found more information at: <a href="http://wishlistautoprotect.com">Wish
 
 
 == Changelog ==
+
+= 1.1.0 =
+* Update support for WordPress 4.1.1
+
+
 = 1.0.35 =
 * Initial for wordpress directory.
 
